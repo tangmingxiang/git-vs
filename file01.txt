@@ -1,1 +1,3 @@
 update count=5
+add count / 2
+
